@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(  
     name="your_package_name",  # Replace with your package name  
-    version="1.0.0",           # Package version  
+    version="1.0.1",           # Package version  
     description="Your package description",  
     long_description=open("README.md").read(),  
     long_description_content_type="text/markdown",  
